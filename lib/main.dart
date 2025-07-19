@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
         foregroundColor: Colors.white,
         titleTextStyle: GoogleFonts.oswald(fontSize: 24, fontWeight: FontWeight.bold),
       ),
+      
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
           foregroundColor: Colors.white,
